@@ -1,4 +1,4 @@
-**Uploading Images as a content type**
+**Uploading Images as a content type**--
 Step-1 : This is Home page of the website. Click on "Content" from the drupal-9 customization bar.
 Step-1 : Here, click on "Add content" button.
 Step-1 : Now, click on "Image".
